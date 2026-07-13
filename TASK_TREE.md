@@ -7,9 +7,8 @@
 - [x] 初始化本地 Git 仓库
 - [x] 建立版本化任务树
 - [x] 统一默认分支为 `main`
-- [!] 关联 GitHub 远端 `origin`
-  - 需要：已创建且 GitHub App 可访问的 `owner/repository` 或仓库 URL
-- [ ] 创建首次提交并推送到 GitHub
+- [x] 关联 GitHub 远端 `origin`：`Canoe-Ocean/Finance`
+- [x] 创建首次提交并推送到 GitHub
 - [ ] 启用 GitHub Issues、Pull Requests 与 Actions
 
 ## 1. 产品范围与数据边界
